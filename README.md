@@ -19,6 +19,6 @@ The values that must be changed in the list above are available as notes in the 
 
 ### AND THE END
 
-![RESULT](https://github.com/okay-kurtkaya/soc-report/blob/main/images/result.png)
+![RESULT](https://github.com/okaykurtkaya/windows-event-id-submitter/blob/main/images/result.png)
 
 `printf(n3gat1v3o)`
